@@ -1,0 +1,15 @@
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\bin\Debug\net6.0\Pospa_pojistovna_zv.exe
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\bin\Debug\net6.0\Pospa_pojistovna_zv.deps.json
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\bin\Debug\net6.0\Pospa_pojistovna_zv.runtimeconfig.json
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\bin\Debug\net6.0\Pospa_pojistovna_zv.dll
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\bin\Debug\net6.0\Pospa_pojistovna_zv.pdb
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\Pospa_pojistovna_zv.csproj.AssemblyReference.cache
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\Pospa_pojistovna_zv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\Pospa_pojistovna_zv.AssemblyInfoInputs.cache
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\Pospa_pojistovna_zv.AssemblyInfo.cs
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\Pospa_pojistovna_zv.csproj.CoreCompileInputs.cache
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\Pospa_pojistovna_zv.dll
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\refint\Pospa_pojistovna_zv.dll
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\Pospa_pojistovna_zv.pdb
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\Pospa_pojistovna_zv.genruntimeconfig.cache
+C:\Users\pospi\Dropbox\ASP.NET Core MVC\Pospa_pojistovna_zv\Pospa_pojistovna_zv\obj\Debug\net6.0\ref\Pospa_pojistovna_zv.dll
